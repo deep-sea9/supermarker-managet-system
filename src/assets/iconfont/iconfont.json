@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1262082",
+      "name": "rmb",
+      "font_class": "rmb",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "1778358",
+      "name": "RMB finish",
+      "font_class": "RMBfinish",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "13616699",
+      "name": "message",
+      "font_class": "message",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    }
+  ]
+}
